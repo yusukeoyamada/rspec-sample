@@ -30,3 +30,5 @@
 # Paperclipによってアップロードされたファイルを無視する
 /public/system
 /spec/test_uploads
+
+.DS_Store
